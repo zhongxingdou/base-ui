@@ -1,0 +1,29 @@
+{
+  "name": "base-ui",
+  "version": "1.0.0",
+  "description": "As a base for ui library",
+  "main": "main.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "event-emitter": "^0.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhongxingdou/base-ui.git"
+  },
+  "keywords": [
+    "ui"
+  ],
+  "author": "zhongxingdou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhongxingdou/base-ui/issues"
+  },
+  "homepage": "https://github.com/zhongxingdou/base-ui#readme"
+}
